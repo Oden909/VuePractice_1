@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Heebo:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+
+* {
+    font-family: "Epilogue", serif;
+    color: #2D2D2D;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: #2D2D2D;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 68px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+ul {
+    list-style: none;
+}
